@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//阿亮给sort函数添加注释
 void sort(int arr[], int size)
 {
 	int tmp = 0;
