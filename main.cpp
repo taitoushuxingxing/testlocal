@@ -46,5 +46,10 @@ int main()
 
 void test()
 {
+
+}
+
+void test02()
+{
 	
 }
