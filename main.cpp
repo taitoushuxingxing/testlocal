@@ -57,3 +57,8 @@ void test02()
 {
 	
 }
+
+void test10()
+{
+	int m = 0
+}
