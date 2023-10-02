@@ -48,6 +48,12 @@ int main()
 
 
 void test03()
+void test()
+{
+
+}
+
+void test02()
 {
 	
 }
